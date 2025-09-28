@@ -1,7 +1,7 @@
 # assignment1
 
 # Implemented algorithms
-- Merge sort (with cutoff for small arrays, buffer reuse)
+ Merge sort (with cutoff for small arrays, buffer reuse)
 - Quick sort (randomized pivot, smaller-side recursion)
 - Deterministic select (median of medians)
 - Closest pair of points (divide & conquer)
